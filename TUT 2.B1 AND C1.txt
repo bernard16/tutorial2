@@ -1,0 +1,15 @@
+ #                                            TUTORIAL 2
+
+#QUESTION.1(B).How does the error scale with the number of points.
+
+
+#ANSWER: The error decreases as the number of points increases.
+
+
+
+
+#QUESTION.1(C).How muny points did we need to use in part 2 to get the same accuracy as 11 points with simpson's rule?
+
+
+#ANSWER: -Simpson's Rule gives almost accurate result than the standard sum, we require almost 15 points to get the same acuracy in standrad #         sum as in Simpson's
+    
